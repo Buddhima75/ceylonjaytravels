@@ -173,93 +173,86 @@
                 <div class="right-top-inner-wrapper">
                     <div class="home-intro">
 
-                        <div class="line-title">Truly</div>
+                        <div class="line-title"> </div>
                         <h1 class="main-title">
                             <span>Your Tropical</span> Island Escape
                         </h1>
                         <div class="description">
-                            <p>Sri Lanka – a name conjures up images of golden sandy beaches, sunset cocktails, palm
-                                trees, wildlife and rolling hills. This is what tropical dreams are made of. Travel to
-                                Sri Lanka and explore a land of hope wonder and mystery,
-                                all who step on to shores of this island are soon enthralled with the beautiful
-                                landscapes, friendly people and the magic all around.</p>
-                            <p>It’s quite easy to fall in love with this country of contrasts and surprises. From quite
-                                scenic corners to the lush green tea estates and historical monuments, each destination
-                                on this island will make you feel like you have
-                                arrived in a whole new world.</p>
+                            <p>Sri Lanka is located in southern Asia, off the southeast coast of India. Sri Lanka is an island that is bordered by the Gulf of Mannar to the west, the Bay of Bengal to the east, the Indian Ocean to the south, and Palk Bay to the northwest.</p>
+                            <p>Taprobana is undoubtedly present-day Sri Lanka when referring to the map. The map indicates names such as ‘Rhogandani’ in the south (known as Rohana in ancient times) and Anuragrami in the northwest referring to Anuradha Grama as it was known in ancient times.</p>
                         </div>
                     </div>
                     <!-- /.home-intro -->
                     <style>
-                    .right-image-wrapper {
-                        width: 300px;
-                        height: 200px;
-                        overflow: hidden;
-                        position: relative;
-                        border: 2px solid #ddd;
-                    }
+                        .right-image-wrapper {
+                            width: 300px;
+                            height: 200px;
+                            overflow: hidden;
+                            position: relative;
+                            border: 2px solid #ddd;
+                        }
 
-                    .right-image {
-                        width: 100%;
-                        height: 100%;
-                        background-size: cover;
-                        background-position: center;
-                        position: absolute;
-                        top: 0;
-                        right: -100%;
-                        /* Start outside the wrapper */
-                        animation: slideOneByOne 20s infinite ease-in-out;
-                    }
-
-                    /* Keyframes for right-side sliding */
-                    @keyframes slideOneByOne {
-                        0% {
+                        .right-image {
+                            width: 100%;
+                            height: 100%;
+                            background-size: cover;
+                            background-position: center;
+                            position: absolute;
+                            top: 0;
                             right: -100%;
-                            opacity: 0;
+                            /* Start outside the wrapper */
+                            animation: slideOneByOne 20s infinite ease-in-out;
                         }
 
-                        10% {
-                            right: 0%;
-                            opacity: 1;
+                        /* Keyframes for right-side sliding */
+                        @keyframes slideOneByOne {
+                            0% {
+                                right: -100%;
+                                opacity: 0;
+                            }
+
+                            10% {
+                                right: 0%;
+                                opacity: 1;
+                            }
+
+                            /* Slide in */
+                            40% {
+                                right: 0%;
+                                opacity: 1;
+                            }
+
+                            /* Stay visible */
+                            50% {
+                                right: 100%;
+                                opacity: 0;
+                            }
+
+                            /* Slide out */
+                            100% {
+                                right: 100%;
+                                opacity: 0;
+                            }
+
+                            /* Keep out of view */
                         }
 
-                        /* Slide in */
-                        40% {
-                            right: 0%;
-                            opacity: 1;
+                        /* Assign different delay for each image */
+                        .right-image:nth-child(1) {
+                            animation-delay: 0s;
                         }
 
-                        /* Stay visible */
-                        50% {
-                            right: 100%;
-                            opacity: 0;
+                        .right-image:nth-child(2) {
+                            animation-delay: 5s;
                         }
 
-                        /* Slide out */
-                        100% {
-                            right: 100%;
-                            opacity: 0;
+                        .right-image:nth-child(3) {
+                            animation-delay: 10s;
                         }
 
-                        /* Keep out of view */
-                    }
-
-                    /* Assign different delay for each image */
-                    .right-image:nth-child(1) {
-                        animation-delay: 0s;
-                    }
-
-                    .right-image:nth-child(2) {
-                        animation-delay: 5s;
-                    }
-
-                    .right-image:nth-child(3) {
-                        animation-delay: 10s;
-                    }
-
-                    .right-image:nth-child(4) {
-                        animation-delay: 15s;
-                    }
+                        .right-image:nth-child(4) {
+                            animation-delay: 15s;
+                        }
                     </style>
 
 
@@ -274,33 +267,8 @@
 
                 <div class="right-bottom-inner-wrapper">
                     <div class="component-why-truly-srilanka">
-                        <h2 class="main-title"> <span>Why </span> Sri Lanka?</h2>
-                        <div class="items-wrapper">
-                            <div class="item">
-                                <div class="icon"
-                                    style="background-image:url(https://djpadb6zmchmi.cloudfront.net/2020/05/lonely-planet.svg)">
-                                </div>
-                                <div class="text">
-                                    Lonely Planet’s No.1 holiday destination 2019 </div>
-                            </div>
-                            <!-- /.item -->
-                            <div class="item">
-                                <div class="icon"
-                                    style="background-image:url(https://djpadb6zmchmi.cloudfront.net/2020/05/tropical-land.svg)">
-                                </div>
-                                <div class="text">
-                                    A glorious <br /> tropical island </div>
-                            </div>
-                            <!-- /.item -->
-                            <div class="item">
-                                <div class="icon"
-                                    style="background-image:url(https://djpadb6zmchmi.cloudfront.net/2020/05/island-hospitality.svg)">
-                                </div>
-                                <div class="text">
-                                    Island hospitality <br /> at its finest </div>
-                            </div>
-                            <!-- /.item -->
-                        </div>
+                        
+                        <p>See the country’s stunning landscapes, endless white sand beaches and sprawling national parks from a trustworthy local’s perspective Follow a newly hatched sea turtle’s journey to the sea on the interminable white-sand beaches of the south coast, get a soaring “eagle”-eye view of the spectacular ancient Sigiriya rock fortress, watch the world’s most giant elephants travel in their home in the sprawling Udawalawe National Park, and witness doves waking with the vibrant sunrise over Colombo. Sri Lanka is more than just a destination, it’s a feeling. So feel it as much as you can.</p>
                         <!-- /.items-wrapper -->
                     </div>
                 </div>
@@ -317,23 +285,17 @@
                     <div class="section-home-authentic-experience-inner">
                         <div class="left-wrapper">
                             <div class="section-title-wrapper">
-                                <div class="line-title"> TRULY </div>
+                                <div class="line-title"> </div>
                                 <h2 class="home-section-title">Authentic Experiences</h2>
                             </div>
                             <div class="description-link-wrapper">
                                 <div class="description-wrapper">
-                                    Arriving at this dream destination will leave you with excitement knowing that there
-                                    are experiences ahead that are unique just to Sri Lanka. Right from your very first
-                                    step on the island, you’ll be greeted with a gust of inviting warm weather. Once
-                                    you’ve
-                                    hit the road, the sense of adventure will fill the air. You’ll be able to experience
-                                    the call of the wild, the gentle caress of nature and indulge yourself in Ceylon’s
-                                    rich culture. </div>
+                                Ayubowan. Warmly welcome to Sri Lanka. Now you have entered the magical land of the Indian Ocean also known as the pearl of the Indian ocean. Fabulous nature, glorious historical places, and delicious Sri Lankan cuisine make your travel remarkable forever. So let us start to explore Ceylon the fulfill your traveling enthusiasm. </div>
 
 
                                 <div class="link-wrapper">
                                     <a href="./destination.php"
-                                        class="link-type-1"> Find Out More</a>
+                                        class="link-type-1"> Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -393,7 +355,7 @@
                                 <!-- /.left-wrapper -->
                                 <div class="right-wrapper">
                                     <div class="section-title-wrapper">
-                                        <div class="line-title"> TRULY </div>
+                                        <div class="line-title">  </div>
                                         <h2 class="home-section-title">Diverse Explore</h2>
                                     </div>
                                     <!-- /.title -->
@@ -462,7 +424,7 @@
                                                                     malls, restaurants and various forms of urban
                                                                     entertainment that awaits the urban explorer. </div>
                                                                 <div class="link-wrapper">
-                                                                    <a href="./location/colombo.php" class="link-type-1"> Find Out More</a>
+                                                                    <a href="./location/colombo.php" class="link-type-1"> View More</a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -502,7 +464,7 @@
                                                                     beach lovers. Not to mention the clear waters and
                                                                     coral reefs waiting to be explored. </div>
                                                                 <div class="link-wrapper">
-                                                                    <a href="./location/hikkaduwa.php" class="link-type-1"> Find Out More</a>
+                                                                    <a href="./location/hikkaduwa.php" class="link-type-1"> View More</a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -542,7 +504,7 @@
                                                                     what the elegant city of Galle is all about. Find
                                                                     out more enticing appeals await you here! </div>
                                                                 <div class="link-wrapper">
-                                                                    <a href="./location/galle.php" class="link-type-1"> Find Out More</a>
+                                                                    <a href="./location/galle.php" class="link-type-1"> View More</a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -583,7 +545,7 @@
                                                                     attractions and the beauty of nature to indulge in.
                                                                 </div>
                                                                 <div class="link-wrapper">
-                                                                    <a href="./location/kandy.php" class="link-type-1"> Find Out More</a>
+                                                                    <a href="./location/kandy.php" class="link-type-1"> View More</a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -623,7 +585,7 @@
                                                                     are centuries old where the essence of Buddhism is a
                                                                     prominent part of life. </div>
                                                                 <div class="link-wrapper">
-                                                                    <a href="./location/anuradhapura.php" class="link-type-1"> Find Out More</a>
+                                                                    <a href="./location/anuradhapura.php" class="link-type-1"> View More</a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -664,7 +626,7 @@
                                                                     Sigiriya is seasoned with a sense of wonder that is
                                                                     sure mesmerise its visitors. </div>
                                                                 <div class="link-wrapper">
-                                                                    <a href="./location/sigiraya.php" class="link-type-1"> Find Out More</a>
+                                                                    <a href="./location/sigiraya.php" class="link-type-1"> View More</a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -709,7 +671,7 @@
                                                                     Even the gentle giants of the ocean seem to love the
                                                                     warm waters of Trincomalee. </div>
                                                                 <div class="link-wrapper">
-                                                                    <a href="./location/trincomalee.php" class="link-type-1"> Find Out More</a>
+                                                                    <a href="./location/trincomalee.php" class="link-type-1"> View More</a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -745,7 +707,7 @@
                                 <div class="description-link-wrapper">
                                     <div class="link-wrapper">
                                         <a href="./destination.php" class="link-type-1">
-                                            Find Out More</a>
+                                        View More</a>
                                     </div>
                                 </div>
                             </div>
@@ -933,14 +895,14 @@
                                     <div class="no-flex">
                                         <div class="section-inner-wrapper inner-title-wrapper">
                                             <div class="section-title-wrapper">
-                                                <div class="line-title"> TRULY </div>
+                                                <div class="line-title">  </div>
                                                 <h2 class="home-section-title"> Wonderful Things to Explore in Sri Lanka
                                                 </h2>
                                             </div>
                                             <div class="description-link-wrapper">
                                                 <div class="link-wrapper">
-                                                    <a href="http://localhost/cjd/things-to-do.html"
-                                                        class="link-type-1"> Find Out More</a>
+                                                    <a href="./destination.php"
+                                                        class="link-type-1"> View More</a>
                                                 </div>
                                             </div>
                                         </div>

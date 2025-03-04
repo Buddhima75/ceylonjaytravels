@@ -14,6 +14,7 @@
                 <li><a href="./destination.php"><span>Explore</span></a></li>
                 
                 <li><a href="http://localhost/cjd/things-to-do.html"><span>Things to Do</span></a></li>
+                
             </ul>
         </div>
 
@@ -119,7 +120,7 @@
                                        
                                         <li><a href="http://localhost/cjd/about-sri-lanka.html">About Sri
                                                 Lanka</a></li>
-                                        <li><a href="http://localhost/cjd/contact-us.html">Contact Us</a>
+                                        <li><a href="./contact_us.php">Contact Us</a>
                                         </li>
                                     </ul>
                                 </div>
