@@ -1162,7 +1162,7 @@ section.wp-block-cover-image>h2 {
 
 .wp-block-media-text.has-media-on-the-right .wp-block-media-text__content {
     /*!rtl:begin:ignore*/
-    -ms-grid-column: 1;
+    -ms-grid-column: 1;logo-black
     grid-column: 1;
     -ms-grid-row: 1;
     grid-row: 1

@@ -21,9 +21,9 @@
             <meta property="og:type" content="website" />
             <meta property="og:site_name" content="Truly Sri Lanka" />
             <!-- Favicon -->
-            <link rel="shortcut icon" href="http://localhost/sl/wp-content/themes/reTlsTheme/favicon.ico"
+            <link rel="shortcut icon" href="http://localhost/cjd/wp-content/themes/reTlsTheme/favicon.ico"
                type="image/x-icon" />
-            <link rel="icon" href="http://localhost/sl/wp-content/themes/reTlsTheme/favicon.ico" type="image/x-icon">
+            <link rel="icon" href="http://localhost/cjd/wp-content/themes/reTlsTheme/favicon.ico" type="image/x-icon">
             <meta name="viewport" content="width=device-width, initial-scale=1.0" />
             <!--GTM Code-->
             <!-- Google Tag Manager -->
@@ -67,24 +67,24 @@
             </style>
             <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@200;400;600;700&display=swap" rel="stylesheet">
             <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap" rel="stylesheet">
-            <link rel="preload" href="http://localhost/sl/wp-content/themes/reTlsTheme/assets/style.css?v=6.13"
+            <link rel="preload" href="http://localhost/cjd/wp-content/themes/reTlsTheme/assets/style.css?v=6.13"
                as="style">
-            <link rel="stylesheet" href="http://localhost/sl/wp-content/themes/reTlsTheme/assets/style.css?v=6.13">
+            <link rel="stylesheet" href="http://localhost/cjd/wp-content/themes/reTlsTheme/assets/style.css?v=6.13">
             <link rel="stylesheet"
-               href="http://localhost/sl/wp-content/themes/reTlsTheme/assets/css/bootstrap-slider.min.css">
+               href="http://localhost/cjd/wp-content/themes/reTlsTheme/assets/css/bootstrap-slider.min.css">
             <!-- jquery -->
-            <script src="http://localhost/sl/wp-content/themes/reTlsTheme/assets/js/jquery.min.js"></script>
+            <script src="http://localhost/cjd/wp-content/themes/reTlsTheme/assets/js/jquery.min.js"></script>
             <link rel='stylesheet' id='wp-block-library-css'
-               href='http://localhost/sl/wp-includes/css/dist/block-library/style.min.css?ver=5.4.9' type='text/css'
+               href='http://localhost/cjd/wp-includes/css/dist/block-library/style.min.css?ver=5.4.9' type='text/css'
                media='all' />
             <link rel='stylesheet' id='dfb-frontend-css'
-               href='http://localhost/sl/wp-content/plugins/dynamic-form-builder/inc/css/dfb-frontend.css?ver=20141031'
+               href='http://localhost/cjd/wp-content/plugins/dynamic-form-builder/inc/css/dfb-frontend.css?ver=20141031'
                type='text/css' media='all' />
             <script type='text/javascript'
-               src='http://localhost/sl/wp-content/plugins/dynamic-form-builder/inc/js/dfb-frontend.min.js?ver=20141031'></script>
-            <link rel="canonical" href="http://localhost/sl/destinations/colombo.html" />
+               src='http://localhost/cjd/wp-content/plugins/dynamic-form-builder/inc/js/dfb-frontend.min.js?ver=20141031'></script>
+            <link rel="canonical" href="http://localhost/cjd/destinations/colombo.html" />
             <script type="text/javascript">
-               var ajaxurl = "http://localhost/sl/wp-admin/admin-ajax.php";
+               var ajaxurl = "http://localhost/cjd/wp-admin/admin-ajax.php";
             </script>
          </head>
          <body>
@@ -122,9 +122,9 @@
                            style="background-image:url('../images/tangalle.jpg')">
                         </div>
                         <div class="mobile-logo">
-                           <a href="http://localhost/sl" id="branding-white" title="Truly Sri Lanka"
+                           <a href="http://localhost/cjd" id="branding-white" title="Truly Sri Lanka"
                               style="display: inline-block; padding: 15px 0;">
-                           <img src="../images/logo3.png" alt="Truly Sri Lanka"
+                           <img src="../images/logo/logo.png" alt="Truly Sri Lanka"
                               title="Truly Sri Lanka">
                            </a>
                         </div>
@@ -296,7 +296,7 @@
                   </div>
                </div>
             </main>
-            <script type='text/javascript' src='http://localhost/sl/wp-includes/js/wp-embed.min.js?ver=5.4.9'></script>
+            <script type='text/javascript' src='http://localhost/cjd/wp-includes/js/wp-embed.min.js?ver=5.4.9'></script>
             <?php
                include "../footer.php";
                
@@ -314,13 +314,13 @@
                }, true);
             </script>
             <script defer
-               src="http://localhost/sl/wp-content/themes/reTlsTheme/assets/js/slider-menu.jquery-custom.js"></script>
-            <script defer src="http://localhost/sl/wp-content/themes/reTlsTheme/assets/js/owl.carousel.min.js"></script>
-            <script defer src="http://localhost/sl/wp-content/themes/reTlsTheme/assets/js/bootstrap.min.js"></script>
-            <script defer src="http://localhost/sl/wp-content/themes/reTlsTheme/assets/js/jquery.fancybox.min.js"></script>
-            <script defer src="http://localhost/sl/wp-content/themes/reTlsTheme/assets/js/jquery.validate.min.js"></script>
-            <script defer src="http://localhost/sl/wp-content/themes/reTlsTheme/assets/js/bootstrap-slider.js"></script>
-            <script defer src="http://localhost/sl/wp-content/themes/reTlsTheme/assets/js/functions.min.js"></script>
+               src="http://localhost/cjd/wp-content/themes/reTlsTheme/assets/js/slider-menu.jquery-custom.js"></script>
+            <script defer src="http://localhost/cjd/wp-content/themes/reTlsTheme/assets/js/owl.carousel.min.js"></script>
+            <script defer src="http://localhost/cjd/wp-content/themes/reTlsTheme/assets/js/bootstrap.min.js"></script>
+            <script defer src="http://localhost/cjd/wp-content/themes/reTlsTheme/assets/js/jquery.fancybox.min.js"></script>
+            <script defer src="http://localhost/cjd/wp-content/themes/reTlsTheme/assets/js/jquery.validate.min.js"></script>
+            <script defer src="http://localhost/cjd/wp-content/themes/reTlsTheme/assets/js/bootstrap-slider.js"></script>
+            <script defer src="http://localhost/cjd/wp-content/themes/reTlsTheme/assets/js/functions.min.js"></script>
             <svg xmlns="http://www.w3.org/2000/svg" style="display:none" aria-hidden="true">
                <symbol id="icon-blogger" viewBox="0 0 14.41 14.16">
                   <path

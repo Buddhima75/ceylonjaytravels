@@ -26,9 +26,9 @@
 
 
     <!-- Favicon -->
-    <link rel="shortcut icon" href="http://localhost/sl/wp-content/themes/reTlsTheme/favicon.ico"
+    <link rel="shortcut icon" href="http://localhost/cjd/wp-content/themes/reTlsTheme/favicon.ico"
         type="image/x-icon" />
-    <link rel="icon" href="http://localhost/sl/wp-content/themes/reTlsTheme/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="http://localhost/cjd/wp-content/themes/reTlsTheme/favicon.ico" type="image/x-icon">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
@@ -95,25 +95,25 @@
 
     <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap" rel="stylesheet">
 
-    <link rel="preload" href="http://localhost/sl/wp-content/themes/reTlsTheme/assets/style.css?v=6.13"
+    <link rel="preload" href="http://localhost/cjd/wp-content/themes/reTlsTheme/assets/style.css?v=6.13"
         as="style">
-    <link rel="stylesheet" href="http://localhost/sl/wp-content/themes/reTlsTheme/assets/style.css?v=6.13">
+    <link rel="stylesheet" href="http://localhost/cjd/wp-content/themes/reTlsTheme/assets/style.css?v=6.13">
     <link rel="stylesheet"
-        href="http://localhost/sl/wp-content/themes/reTlsTheme/assets/css/bootstrap-slider.min.css">
+        href="http://localhost/cjd/wp-content/themes/reTlsTheme/assets/css/bootstrap-slider.min.css">
     <!-- jquery -->
-    <script src="http://localhost/sl/wp-content/themes/reTlsTheme/assets/js/jquery.min.js"></script>
+    <script src="http://localhost/cjd/wp-content/themes/reTlsTheme/assets/js/jquery.min.js"></script>
     <link rel='stylesheet' id='wp-block-library-css'
-        href='http://localhost/sl/wp-includes/css/dist/block-library/style.min.css?ver=5.4.9' type='text/css'
+        href='http://localhost/cjd/wp-includes/css/dist/block-library/style.min.css?ver=5.4.9' type='text/css'
         media='all' />
     <link rel='stylesheet' id='dfb-frontend-css'
-        href='http://localhost/sl/wp-content/plugins/dynamic-form-builder/inc/css/dfb-frontend.css?ver=20141031'
+        href='http://localhost/cjd/wp-content/plugins/dynamic-form-builder/inc/css/dfb-frontend.css?ver=20141031'
         type='text/css' media='all' />
     <script type='text/javascript'
-        src='http://localhost/sl/wp-content/plugins/dynamic-form-builder/inc/js/dfb-frontend.min.js?ver=20141031'>
+        src='http://localhost/cjd/wp-content/plugins/dynamic-form-builder/inc/js/dfb-frontend.min.js?ver=20141031'>
     </script>
-    <link rel="canonical" href="http://localhost/sl/" />
+    <link rel="canonical" href="http://localhost/cjd/" />
     <script type="text/javascript">
-    var ajaxurl = "http://localhost/sl/wp-admin/admin-ajax.php";
+    var ajaxurl = "http://localhost/cjd/wp-admin/admin-ajax.php";
     </script>
 </head>
 
@@ -151,9 +151,9 @@
                     </div>
 
                     <div class="mobile-logo">
-                        <a href="http://localhost/sl" id="branding-white" title="Truly Sri Lanka"
+                        <a href="http://localhost/cjd" id="branding-white" title="Truly Sri Lanka"
                             style="display: inline-block; padding: 15px 0;">
-                            <img src="./images/logo3.png" alt="Truly Sri Lanka" title="Truly Sri Lanka">
+                            <img src="./images/logo/logo.png" alt="Truly Sri Lanka" title="Truly Sri Lanka">
                         </a>
                     </div>
 
@@ -332,7 +332,7 @@
 
 
                                 <div class="link-wrapper">
-                                    <a href="http://localhost/sl/srilanka-attractions.html"
+                                    <a href="./destination.php"
                                         class="link-type-1"> Find Out More</a>
                                 </div>
                             </div>
@@ -371,7 +371,7 @@
 
 
                                 <div class="link-wrapper">
-                                    <a href="http://localhost/sl/srilanka-attractions.html"
+                                    <a href="http://localhost/cjd/srilanka-attractions.html"
                                         class="link-type-1"> Find Out More</a>
                                 </div>
                             </div>
@@ -462,7 +462,7 @@
                                                                     malls, restaurants and various forms of urban
                                                                     entertainment that awaits the urban explorer. </div>
                                                                 <div class="link-wrapper">
-                                                                    <a href="#" class="link-type-1"> Find Out More</a>
+                                                                    <a href="./location/colombo.php" class="link-type-1"> Find Out More</a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -502,7 +502,7 @@
                                                                     beach lovers. Not to mention the clear waters and
                                                                     coral reefs waiting to be explored. </div>
                                                                 <div class="link-wrapper">
-                                                                    <a href="#" class="link-type-1"> Find Out More</a>
+                                                                    <a href="./location/hikkaduwa.php" class="link-type-1"> Find Out More</a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -542,7 +542,7 @@
                                                                     what the elegant city of Galle is all about. Find
                                                                     out more enticing appeals await you here! </div>
                                                                 <div class="link-wrapper">
-                                                                    <a href="#" class="link-type-1"> Find Out More</a>
+                                                                    <a href="./location/galle.php" class="link-type-1"> Find Out More</a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -583,7 +583,7 @@
                                                                     attractions and the beauty of nature to indulge in.
                                                                 </div>
                                                                 <div class="link-wrapper">
-                                                                    <a href="#" class="link-type-1"> Find Out More</a>
+                                                                    <a href="./location/kandy.php" class="link-type-1"> Find Out More</a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -623,7 +623,7 @@
                                                                     are centuries old where the essence of Buddhism is a
                                                                     prominent part of life. </div>
                                                                 <div class="link-wrapper">
-                                                                    <a href="#" class="link-type-1"> Find Out More</a>
+                                                                    <a href="./location/anuradhapura.php" class="link-type-1"> Find Out More</a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -664,7 +664,7 @@
                                                                     Sigiriya is seasoned with a sense of wonder that is
                                                                     sure mesmerise its visitors. </div>
                                                                 <div class="link-wrapper">
-                                                                    <a href="#" class="link-type-1"> Find Out More</a>
+                                                                    <a href="./location/sigiraya.php" class="link-type-1"> Find Out More</a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -709,7 +709,7 @@
                                                                     Even the gentle giants of the ocean seem to love the
                                                                     warm waters of Trincomalee. </div>
                                                                 <div class="link-wrapper">
-                                                                    <a href="#" class="link-type-1"> Find Out More</a>
+                                                                    <a href="./location/trincomalee.php" class="link-type-1"> Find Out More</a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -744,7 +744,7 @@
                                 </div>
                                 <div class="description-link-wrapper">
                                     <div class="link-wrapper">
-                                        <a href="#" class="link-type-1">
+                                        <a href="./destination.php" class="link-type-1">
                                             Find Out More</a>
                                     </div>
                                 </div>
@@ -758,7 +758,7 @@
 
                     <div class="grid-inner-wrapper mobile">
                         <div class="item">
-                            <a href="http://localhost/sl/things-to-do/beaches.html"
+                            <a href="https://en.wikipedia.org/wiki/Northern_Province,_Sri_Lanka"
                                 class="link-item lazyBackground" data-imgsrc="./images/27.jpg">
                                 <div class="link-inner">
                                     <div class="line"></div>
@@ -768,7 +768,7 @@
                         </div>
 
                         <div class="item">
-                            <a href="http://localhost/sl/things-to-do/wildlife-and-safari.html"
+                            <a href="https://en.wikipedia.org/wiki/North_Western_Province,_Sri_Lanka"
                                 class="link-item lazyBackground" data-imgsrc="./images/28.webp">
                                 <div class="link-inner">
                                     <div class="line"></div>
@@ -778,7 +778,7 @@
                         </div>
 
                         <div class="item">
-                            <a href="http://localhost/sl/things-to-do/sightseeing-and-tours.html"
+                            <a href="https://simple.wikipedia.org/wiki/Uva_Province"
                                 class="link-item lazyBackground" data-imgsrc="./images/33.webp">
                                 <div class="link-inner">
                                     <div class="line"></div>
@@ -788,7 +788,7 @@
                         </div>
 
                         <div class="item">
-                            <a href="" class="link-item lazyBackground" data-imgsrc="./images/30.jpg">
+                            <a href="https://simple.wikipedia.org/wiki/Central_Province,_Sri_Lanka" class="link-item lazyBackground" data-imgsrc="./images/30.jpg">
                                 <div class="link-inner">
                                     <div class="line"></div>
                                     <div class="text"> Central Province </div>
@@ -797,7 +797,7 @@
                         </div>
 
                         <div class="item">
-                            <a href="http://localhost/sl/things-to-do/nightlife.html"
+                            <a href="https://simple.wikipedia.org/wiki/Sabaragamuwa_Province"
                                 class="link-item lazyBackground" data-imgsrc="./images/31.jpg">
                                 <div class="link-inner">
                                     <div class="line"></div>
@@ -807,7 +807,7 @@
                         </div>
 
                         <div class="item">
-                            <a href="http://localhost/sl/things-to-do/heritage-and-culture.html"
+                            <a href="https://simple.wikipedia.org/wiki/Eastern_Province,_Sri_Lanka"
                                 class="link-item lazyBackground" data-imgsrc="./images/32.jpg">
                                 <div class="link-inner">
                                     <div class="line"></div>
@@ -817,7 +817,7 @@
                         </div>
 
                         <div class="item">
-                            <a href="http://localhost/sl/things-to-do/shopping.html"
+                            <a href="https://simple.wikipedia.org/wiki/North_Central_Province,_Sri_Lanka"
                                 class="link-item lazyBackground" data-imgsrc="./images/35.webp">
                                 <div class="link-inner">
                                     <div class="line"></div>
@@ -827,7 +827,7 @@
                         </div>
 
                         <div class="item">
-                            <a href="http://localhost/sl/things-to-do/adventure-and-sports.html"
+                            <a href="https://simple.wikipedia.org/wiki/Southern_Province,_Sri_Lanka"
                                 class="link-item lazyBackground" data-imgsrc="./images/34.jpg">
                                 <div class="link-inner">
                                     <div class="line"></div>
@@ -842,7 +842,7 @@
                         <div class="left-section">
                             <div class="top">
                                 <div class="item">
-                                    <a href="http://localhost/sl/things-to-do/beaches.html"
+                                    <a href="https://en.wikipedia.org/wiki/Northern_Province,_Sri_Lanka"
                                         class="link-item lazyBackground" data-imgsrc="./images/27.jpg">
                                         <div class="link-inner">
                                             <div class="line"></div>
@@ -855,7 +855,7 @@
 
                             <div class="bottom">
                                 <div class="item">
-                                    <a href="https://djpadb6zmchmi.cloudfront.net/2020/05/nightlife.jpg"
+                                    <a href="https://en.wikipedia.org/wiki/North_Western_Province,_Sri_Lanka"
                                         class="link-item lazyBackground" data-imgsrc="./images/28.webp">
                                         <div class="link-inner">
                                             <div class="line"></div>
@@ -871,7 +871,7 @@
                         <div class="middle-section">
                             <div class="top">
                                 <div class="item">
-                                    <a href="http://localhost/sl/things-to-do/wildlife-and-safari.html"
+                                    <a href="https://simple.wikipedia.org/wiki/Uva_Province"
                                         class="link-item lazyBackground" data-imgsrc="./images/33.webp">
                                         <div class="link-inner">
                                             <div class="line"></div>
@@ -883,7 +883,7 @@
                             <!-- / .top -->
                             <div class="bottom">
                                 <div class="item">
-                                    <a href="http://localhost/sl/things-to-do/heritage-and-culture.html"
+                                    <a href="https://simple.wikipedia.org/wiki/Central_Province,_Sri_Lanka"
                                         class="link-item lazyBackground" data-imgsrc="./images/30.jpg">
                                         <div class="link-inner">
                                             <div class="line"></div>
@@ -893,7 +893,7 @@
                                 </div>
 
                                 <div class="item">
-                                    <a href="http://localhost/sl/things-to-do/shopping.html"
+                                    <a href="https://simple.wikipedia.org/wiki/Sabaragamuwa_Province"
                                         class="link-item lazyBackground" data-imgsrc="./images/31.jpg">
                                         <div class="link-inner">
                                             <div class="line"></div>
@@ -908,7 +908,7 @@
                         <div class="right-section">
                             <div class="top">
                                 <div class="item">
-                                    <a href="http://localhost/sl/things-to-do/sightseeing-and-tours.html"
+                                    <a href="https://simple.wikipedia.org/wiki/Eastern_Province,_Sri_Lanka"
                                         class="link-item lazyBackground" data-imgsrc="./images/32.jpg">
                                         <div class="link-inner">
                                             <div class="line"></div>
@@ -918,7 +918,7 @@
                                 </div>
 
                                 <div class="item">
-                                    <a href="" class="link-item lazyBackground" data-imgsrc="./images/35.webp">
+                                    <a href="https://simple.wikipedia.org/wiki/North_Central_Province,_Sri_Lanka" class="link-item lazyBackground" data-imgsrc="./images/35.webp">
                                         <div class="link-inner">
                                             <div class="line"></div>
                                             <div class="text"> North Central Province </div>
@@ -939,7 +939,7 @@
                                             </div>
                                             <div class="description-link-wrapper">
                                                 <div class="link-wrapper">
-                                                    <a href="http://localhost/sl/things-to-do.html"
+                                                    <a href="http://localhost/cjd/things-to-do.html"
                                                         class="link-type-1"> Find Out More</a>
                                                 </div>
                                             </div>
@@ -950,7 +950,7 @@
                             <!-- / .middle -->
                             <div class="bottom">
                                 <div class="item">
-                                    <a href="http://localhost/sl/things-to-do/adventure-and-sports.html"
+                                    <a href="https://simple.wikipedia.org/wiki/Southern_Province,_Sri_Lanka"
                                         class="link-item lazyBackground" data-imgsrc="./images/34.jpg">
                                         <div class="link-inner">
                                             <div class="line"></div>
@@ -987,7 +987,7 @@
                                             ultimate holiday stay. </div>
                                         <!-- max char - 150-->
                                         <div class="link-wrapper">
-                                            <a href="http://localhost/sl/hotels.html" class="link-type-1">
+                                            <a href="http://localhost/cjd/hotels.html" class="link-type-1">
                                                 View All </a>
                                         </div>
                                     </div>
@@ -1045,7 +1045,7 @@
                                             <!-- /.item -->
                                             <div class="item">
                                                 <a
-                                                    href="http://localhost/sl/destinations/ella/hotels/98-acres-resort-spa.html">
+                                                    href="http://localhost/cjd/destinations/ella/hotels/98-acres-resort-spa.html">
                                                     <div class="image">
                                                         <img src="https://djpadb6zmchmi.cloudfront.net/2020/05/98-acres.jpg"
                                                             alt="" class="img-fluid">
@@ -1177,7 +1177,7 @@
                                             packages for this holiday season. </div>
                                         <!-- max char - 210-->
                                         <div class="link-wrapper">
-                                            <a href="http://localhost/sl/special-offers.html"
+                                            <a href="http://localhost/cjd/special-offers.html"
                                                 class="link-type-1"> View All </a>
                                         </div>
                                     </div>
@@ -1572,7 +1572,7 @@
 
         </div>
     </main>
-    <script type='text/javascript' src='http://localhost/sl/wp-includes/js/wp-embed.min.js?ver=5.4.9'>
+    <script type='text/javascript' src='http://localhost/cjd/wp-includes/js/wp-embed.min.js?ver=5.4.9'>
     </script>
     <?php
         include "./footer.php";
@@ -1595,19 +1595,19 @@
     </script>
 
     <script defer
-        src="http://localhost/sl/wp-content/themes/reTlsTheme/assets/js/slider-menu.jquery-custom.js">
+        src="http://localhost/cjd/wp-content/themes/reTlsTheme/assets/js/slider-menu.jquery-custom.js">
     </script>
-    <script defer src="http://localhost/sl/wp-content/themes/reTlsTheme/assets/js/owl.carousel.min.js">
+    <script defer src="http://localhost/cjd/wp-content/themes/reTlsTheme/assets/js/owl.carousel.min.js">
     </script>
-    <script defer src="http://localhost/sl/wp-content/themes/reTlsTheme/assets/js/bootstrap.min.js">
+    <script defer src="http://localhost/cjd/wp-content/themes/reTlsTheme/assets/js/bootstrap.min.js">
     </script>
-    <script defer src="http://localhost/sl/wp-content/themes/reTlsTheme/assets/js/jquery.fancybox.min.js">
+    <script defer src="http://localhost/cjd/wp-content/themes/reTlsTheme/assets/js/jquery.fancybox.min.js">
     </script>
-    <script defer src="http://localhost/sl/wp-content/themes/reTlsTheme/assets/js/jquery.validate.min.js">
+    <script defer src="http://localhost/cjd/wp-content/themes/reTlsTheme/assets/js/jquery.validate.min.js">
     </script>
-    <script defer src="http://localhost/sl/wp-content/themes/reTlsTheme/assets/js/bootstrap-slider.js">
+    <script defer src="http://localhost/cjd/wp-content/themes/reTlsTheme/assets/js/bootstrap-slider.js">
     </script>
-    <script defer src="http://localhost/sl/wp-content/themes/reTlsTheme/assets/js/functions.min.js">
+    <script defer src="http://localhost/cjd/wp-content/themes/reTlsTheme/assets/js/functions.min.js">
     </script>
 
     <svg xmlns="http://www.w3.org/2000/svg" style="display:none" aria-hidden="true">

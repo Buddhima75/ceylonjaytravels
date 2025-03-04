@@ -12835,7 +12835,7 @@ dd {
     } */
 }
 
-.top-navigation.fixmenu .logo-section #branding-text {
+.top-navigation.fixmenu .logo-section .img-logo-top {
     opacity: 1
 }
 
@@ -12848,9 +12848,10 @@ dd {
         -webkit-box-shadow: 0px 2px 10px 1px rgba(0, 0, 0, .1);
         -moz-box-shadow: 0px 2px 10px 1px rgba(0, 0, 0, .1);
         box-shadow: 0px 2px 10px 1px rgba(0, 0, 0, .1);
-        padding: 8px 25px
+        padding: 8px 25px;
+        height:90px;
     }
-    .top-navigation.fixmenu .logo-section #branding-text {
+    .top-navigation.fixmenu .logo-section .img-logo-top {
         display: block
     }
     .top-navigation.fixmenu .logo-section #branding {
@@ -12896,10 +12897,11 @@ dd {
 }
 
 .top-navigation .logo-section #branding img {
-    width: 200px
+    width: 50%
+    
 }
 
-.top-navigation .logo-section #branding-text {
+.top-navigation .logo-section .img-logo-top {
     padding: 17px 0;
     display: block;
     opacity: 0;
@@ -12907,8 +12909,14 @@ dd {
     transition: none
 }
 
-.top-navigation .logo-section #branding-text img {
-    height: 50px
+.top-navigation .logo-section .img-logo-top img {
+    
+    width: 20%;
+   
+}
+.img-logo-top img{
+    width: 20%;
+    margin-top: -10px;
 }
 
 .top-navigation .special-links-section {
@@ -13703,7 +13711,8 @@ dd {
 
 @media only screen and (min-width: 1200px) {
     .top-navigation .menu-section .main-menu-container .table-view .column-view.logo-column .logo-black-desktop img {
-        float: right
+        float: right;
+        width: 40%
     }
 }
 
@@ -14360,7 +14369,8 @@ dd {
     bottom: 0;
     left: 0;
     right: 0;
-    background-color: #000
+    background-color: #ffff;
+    opacity: 0.3 !important;
 }
 
 @media only screen and (min-width: 1200px) {
@@ -14755,7 +14765,8 @@ dd {
     bottom: 0;
     left: 0;
     right: 0;
-    background-color: #000
+    background-color: #fff;
+    opacity: 0.3 !important;
 }
 
 @media only screen and (min-width: 1200px) {
@@ -14924,7 +14935,9 @@ dd {
     bottom: 0;
     left: 0;
     right: 0;
-    background-color: #000
+    background-color: #fff;
+    opacity: 0.3 !important;
+
 }
 
 @media only screen and (min-width: 1200px) {
@@ -15896,7 +15909,7 @@ header {
 }
 
 .footer .column-wrapper .column-1 .logo-section img {
-    width: 100%;
+    width: 50%;
     max-width: 220px;
     margin: auto;
     display: block

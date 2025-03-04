@@ -25,9 +25,9 @@
 
 
     <!-- Favicon -->
-    <link rel="shortcut icon" href="http://localhost/sl/wp-content/themes/reTlsTheme/favicon.ico"
+    <link rel="shortcut icon" href="http://localhost/cjd/wp-content/themes/reTlsTheme/favicon.ico"
         type="image/x-icon" />
-    <link rel="icon" href="http://localhost/sl/wp-content/themes/reTlsTheme/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="http://localhost/cjd/wp-content/themes/reTlsTheme/favicon.ico" type="image/x-icon">
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
@@ -84,25 +84,25 @@
 
     <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap" rel="stylesheet">
 
-    <link rel="preload" href="http://localhost/sl/wp-content/themes/reTlsTheme/assets/style.css?v=6.13"
+    <link rel="preload" href="http://localhost/cjd/wp-content/themes/reTlsTheme/assets/style.css?v=6.13"
         as="style">
-    <link rel="stylesheet" href="http://localhost/sl/wp-content/themes/reTlsTheme/assets/style.css?v=6.13">
+    <link rel="stylesheet" href="http://localhost/cjd/wp-content/themes/reTlsTheme/assets/style.css?v=6.13">
     <link rel="stylesheet"
-        href="http://localhost/sl/wp-content/themes/reTlsTheme/assets/css/bootstrap-slider.min.css">
+        href="http://localhost/cjd/wp-content/themes/reTlsTheme/assets/css/bootstrap-slider.min.css">
     <!-- jquery -->
-    <script src="http://localhost/sl/wp-content/themes/reTlsTheme/assets/js/jquery.min.js"></script>
+    <script src="http://localhost/cjd/wp-content/themes/reTlsTheme/assets/js/jquery.min.js"></script>
     <link rel='stylesheet' id='wp-block-library-css'
-        href='http://localhost/sl/wp-includes/css/dist/block-library/style.min.css?ver=5.4.9' type='text/css'
+        href='http://localhost/cjd/wp-includes/css/dist/block-library/style.min.css?ver=5.4.9' type='text/css'
         media='all' />
     <link rel='stylesheet' id='dfb-frontend-css'
-        href='http://localhost/sl/wp-content/plugins/dynamic-form-builder/inc/css/dfb-frontend.css?ver=20141031'
+        href='http://localhost/cjd/wp-content/plugins/dynamic-form-builder/inc/css/dfb-frontend.css?ver=20141031'
         type='text/css' media='all' />
     <script type='text/javascript'
-        src='http://localhost/sl/wp-content/plugins/dynamic-form-builder/inc/js/dfb-frontend.min.js?ver=20141031'>
+        src='http://localhost/cjd/wp-content/plugins/dynamic-form-builder/inc/js/dfb-frontend.min.js?ver=20141031'>
     </script>
-    <link rel="canonical" href="http://localhost/sl/destinations.html" />
+    <link rel="canonical" href="http://localhost/cjd/destinations.html" />
     <script type="text/javascript">
-    var ajaxurl = "http://localhost/sl/wp-admin/admin-ajax.php";
+    var ajaxurl = "http://localhost/cjd/wp-admin/admin-ajax.php";
     </script>
 </head>
 
@@ -133,7 +133,7 @@
         <div class="banner-inner-wrapper">
             <div class="left-image-wrapper">
                 <div class="inner-bg-img"
-                    style="background-image:url('http://localhost/sl/wp-content/themes/reTlsTheme/assets/images/inner-header-bg.png')">
+                    style="background-image:url('http://localhost/cjd/wp-content/themes/reTlsTheme/assets/images/inner-header-bg.png')">
                 </div>
             </div>
             <div class="right-image-wrapper">
@@ -145,9 +145,9 @@
                     </div>
 
                     <div class="mobile-logo">
-                        <a href="http://localhost/sl" id="branding-white" title="Truly Sri Lanka"
+                        <a href="http://localhost/cjd" id="branding-white" title="Truly Sri Lanka"
                             style="display: inline-block; padding: 15px 0;">
-                            <img src="./images/logo3.png" alt="Truly Sri Lanka" title="Truly Sri Lanka">
+                            <img src="./images/logo/logo.png" alt="Truly Sri Lanka" title="Truly Sri Lanka">
                         </a>
                     </div>
                 </div>
@@ -191,7 +191,7 @@
                                                         <div class="title">Colombo</div>
                                                         <div class="text">The vibrant metropolis of Colombo, Sri Lanka,
                                                               is a tropical haven with a rich colonial history.....</div>
-                                                        <a href="http://localhost/sl/location/colombo.php"
+                                                        <a href="http://localhost/cjd/location/colombo.php"
                                                             class="link-type-1" title="Read More">Read More</a>
                                                     </div>
                                                 </div>
@@ -206,7 +206,7 @@
                                                             coastal town boasts a variety of fascinating attractions and
                                                             experiences.....
                                                         </div>
-                                                        <a href="http://localhost/sl/location/Galle.php"
+                                                        <a href="http://localhost/cjd/location/Galle.php"
                                                             class="link-type-1" title="Read More">Read More</a>
                                                     </div>
                                                 </div>
@@ -220,7 +220,7 @@
                                                             coast, is a top tourist destination known for its stunning
                                                             beaches, vibrant nightlife, and exciting water activities.....
                                                         </div>
-                                                        <a href="http://localhost/sl/location/hikkaduwa.php"
+                                                        <a href="http://localhost/cjd/location/hikkaduwa.php"
                                                             class="link-type-1" title="Read More">Read More</a>
                                                     </div>
                                                 </div>
@@ -231,7 +231,7 @@
                                                     <div class="content">
                                                         <div class="title">Kandy</div>
                                                         <div class="text">Kandy, nestled in the lush central hills of Sri Lanka, is a city rich in history, culture, and natural beauty.....</div>
-                                                        <a href="http://localhost/sl/location/kandy.php"
+                                                        <a href="http://localhost/cjd/location/kandy.php"
                                                             class="link-type-1" title="Read More">Read More</a>
                                                     </div>
                                                 </div>
@@ -242,7 +242,7 @@
                                                     <div class="content">
                                                         <div class="title">Unawatuna</div>
                                                         <div class="text">Unawatuna, located along Sri Lanka's southwestern coast, is a tropical beach destination known for its golden sands, crystal-clear waters, and lush greenery.....</div>
-                                                        <a href="http://localhost/sl/location/unawatuna.php"
+                                                        <a href="http://localhost/cjd/location/unawatuna.php"
                                                             class="link-type-1" title="Read More">Read More</a>
                                                     </div>
                                                 </div>
@@ -253,7 +253,7 @@
                                                     <div class="content">
                                                         <div class="title">Tangalle</div>
                                                         <div class="text">Tangalle, located on Sri Lanka’s southern coast, is a tranquil town known for its pristine beaches, lush nature, and serene atmosphere.....</div>
-                                                        <a href="http://localhost/sl/location/tangalle.php"
+                                                        <a href="http://localhost/cjd/location/tangalle.php"
                                                             class="link-type-1" title="Read More">Read More</a>
                                                     </div>
                                                 </div>
@@ -264,7 +264,7 @@
                                                     <div class="content">
                                                         <div class="title">Polonnaruwa</div>
                                                         <div class="text">Polonnaruwa, a UNESCO World Heritage Site, is one of Sri Lanka’s most historically significant cities, offering travelers a glimpse into the island’s ancient civilization......</div>
-                                                        <a href="http://localhost/sl/location/polonnaruwa.php"
+                                                        <a href="http://localhost/cjd/location/polonnaruwa.php"
                                                             class="link-type-1" title="Read More">Read More</a>
                                                     </div>
                                                 </div>
@@ -275,29 +275,29 @@
                                                     <div class="content">
                                                         <div class="title">Arugam Bay</div>
                                                         <div class="text">Arugam Bay, located on the southeast coast of Sri Lanka, is a world-famous surfing destination known for its stunning beaches, laid-back atmosphere, and vibrant nightlife.....</div>
-                                                        <a href="http://localhost/sl/location/arugam-bay.php"
+                                                        <a href="http://localhost/cjd/location/arugam-bay.php"
                                                             class="link-type-1" title="Read More">Read More</a>
                                                     </div>
                                                 </div>
                                                 <div class="item">
                                                     <div class="image"
-                                                        style="background-image: url(./images/trincomalee.webp">
+                                                        style="background-image: url(./images/trincomalee.webp)">
                                                     </div>
                                                     <div class=" content">
                                                         <div class="title">Trincomalee</div>
                                                         <div class="text">Trincomalee, located on Sri Lanka’s northeastern coast, is a breathtaking coastal city known for its pristine beaches, rich history, and vibrant marine life.....</div>
-                                                        <a href="http://localhost/sl/location/trincomalee.php"
+                                                        <a href="http://localhost/cjd/location/trincomalee.php"
                                                             class="link-type-1" title="Read More">Read More</a>
                                                     </div>
                                                 </div>
                                                 <div class="item">
                                                     <div class="image"
-                                                        style="background-image: url(./images/NuwaraEliya.webp)">
+                                                        style= "background-image: url(./images/NuwaraEliya.webp)">
                                                     </div>
                                                     <div class="content">
                                                         <div class="title">Nuwara Eliya</div>
                                                         <div class="text">Nuwara Eliya, often called "Little England," is a beautiful hill station in the central highlands of Sri Lanka, famous for its cool climate, tea plantations, waterfalls, and colonial architecture.....</div>
-                                                        <a href="http://localhost/sl/location/nuwaraeliya.php"
+                                                        <a href="http://localhost/cjd/location/nuwaraeliya.php"
                                                             class="link-type-1" title="Read More">Read More</a>
                                                     </div>
                                                 </div>
@@ -306,13 +306,8 @@
                                                     </div>
                                                     <div class="content">
                                                         <div class="title">Ella</div>
-                                                        <div class="text">Ella, located in the southern part of Sri
-                                                            Lanka's central highlands, is a small town renowned for its
-                                                            breathtaking landscapes, tea plantations, waterfalls, and
-                                                            hiking trails. This picturesque destination offers a perfect
-                                                            blend of adventure and relaxation, making it a must-visit
-                                                            for nature lovers and outdoor enthusiasts.</div>
-                                                        <a href="http://localhost/sl/location/ella.php"
+                                                        <div class="text">Ella, a charming hill country village in Sri Lanka, is a must-visit destination for travelers seeking breathtaking landscapes, adventurous hikes, and a peaceful atmosphere.....</div>
+                                                        <a href="http://localhost/cjd/location/ella.php"
                                                             class="link-type-1" title="Read More">Read More</a>
                                                     </div>
                                                 </div>
@@ -321,16 +316,9 @@
                                                     </div>
                                                     <div class="content">
                                                         <div class="title">Mirissa</div>
-                                                        <div class="text">Mirissa, located on Sri Lanka’s southern
-                                                            coastline, is a small yet vibrant town known for its
-                                                            pristine beaches, crystal-clear waters, and vibrant
-                                                            nightlife. It’s a popular destination for beach lovers,
-                                                            water sports enthusiasts, and those seeking a peaceful yet
-                                                            lively coastal experience. With its relaxed atmosphere and
-                                                            stunning natural beauty, Mirissa has become one of the most
-                                                            sought-after beach destinations in Sri Lanka.
+                                                        <div class="text">Mirissa is one of Sri Lanka’s most beautiful beach destinations, known for its golden sandy beaches, crystal-clear waters, and vibrant marine life.....
                                                         </div>
-                                                        <a href="http://localhost/sl/destinations/mirissa.html"
+                                                        <a href="http://localhost/cjd/location/mirissa.php"
                                                             class="link-type-1" title="Read More">Read More</a>
                                                     </div>
                                                 </div>
@@ -340,16 +328,9 @@
                                                     </div>
                                                     <div class="content">
                                                         <div class="title">Pasikuda</div>
-                                                        <div class="text">Pasikuda, located on Sri Lanka’s eastern
-                                                            coastline, is a serene beach town known for its calm, clear
-                                                            waters and long stretches of golden sand. With its tranquil
-                                                            atmosphere and beautiful coastal surroundings, Pasikuda is
-                                                            an ideal destination for those seeking a peaceful beach
-                                                            getaway. This idyllic location offers a mix of relaxation,
-                                                            water activities, and scenic beauty, making it one of Sri
-                                                            Lanka's hidden gems.
+                                                        <div class="text">Pasikuda, located on Sri Lanka’s eastern coastline, is famous for its pristine white sandy beaches, shallow turquoise waters, and peaceful atmosphere.....
                                                         </div>
-                                                        <a href="http://localhost/sl/destinations/pasikudah.html"
+                                                        <a href="http://localhost/cjd/location/pasikuda.php"
                                                             class="link-type-1" title="Read More">Read More</a>
                                                     </div>
                                                 </div>
@@ -359,15 +340,9 @@
                                                     </div>
                                                     <div class="content">
                                                         <div class="title">Negombo</div>
-                                                        <div class="text">Negombo, located just a short drive north of
-                                                            Colombo, is a vibrant beach town known for its lively
-                                                            atmosphere, beautiful beaches, and rich history. With its
-                                                            colonial heritage, bustling fish market, and proximity to
-                                                            the airport, Negombo is a convenient and popular destination
-                                                            for both travelers starting or ending their Sri Lanka
-                                                            journey, as well as those seeking a relaxing beach escape.
+                                                        <div class="text">Negombo, located just a short drive from Colombo and Bandaranaike International Airport, is a vibrant coastal town known for its golden beaches, rich colonial history, and lively fishing culture.....
                                                         </div>
-                                                        <a href="http://localhost/sl/destinations/negombo.html"
+                                                        <a href="http://localhost/cjd/location/negombo.php"
                                                             class="link-type-1" title="Read More">Read More</a>
                                                     </div>
                                                 </div>
@@ -376,16 +351,9 @@
                                                     </div>
                                                     <div class="content">
                                                         <div class="title">Yala</div>
-                                                        <div class="text">Yala, located on the southeastern coast of Sri
-                                                            Lanka, is one of the country’s most famous national parks
-                                                            and a top destination for wildlife enthusiasts. Known for
-                                                            its diverse ecosystems, rich biodiversity, and scenic
-                                                            beauty, Yala is a haven for nature lovers and adventure
-                                                            seekers. The park is home to a wide variety of wildlife,
-                                                            including the elusive Sri Lankan leopard, elephants, and
-                                                            numerous bird species
+                                                        <div class="text">Yala, located on Sri Lanka’s southeastern coast, is famous for its exceptional wildlife, stunning landscapes, and diverse ecosystems.....
                                                         </div>
-                                                        <a href="http://localhost/sl/destinations/yala.html"
+                                                        <a href="http://localhost/cjd/location/yala.php"
                                                             class="link-type-1" title="Read More">Read More</a>
                                                     </div>
                                                 </div>
@@ -396,14 +364,8 @@
                                                     </div>
                                                     <div class="content">
                                                         <div class="title">Jaffna</div>
-                                                        <div class="text">Jaffna, located in the northernmost part of
-                                                            Sri Lanka, is a region rich in cultural heritage, historical
-                                                            significance, and natural beauty. Known for its distinct
-                                                            Tamil culture, vibrant temples, and scenic landscapes,
-                                                            Jaffna offers travelers a unique experience that combines
-                                                            history, spirituality, and the warmth of northern Sri Lankan
-                                                            hospitality.</div>
-                                                        <a href="http://localhost/sl/destinations/jaffna.html"
+                                                        <div class="text">Jaffna, located at the northern tip of Sri Lanka, is a unique blend of rich cultural heritage, historical landmarks, and beautiful landscapes.....</div>
+                                                        <a href="http://localhost/cjd/location/jaffna.php"
                                                             class="link-type-1" title="Read More">Read More</a>
                                                     </div>
                                                 </div>
@@ -415,8 +377,7 @@
                                         <div class="slider-mb-only">
                                             <div class="listing-types">
                                                 <div class="item">
-                                                    <a href="http://localhost/sl/destinations/anuradhapura.html"
-                                                        class="item-inner">
+                                                   
                                                         <div class="image">
                                                             <img src="./images/12.webp" alt="" class="img-fluid">
                                                         </div>
@@ -424,26 +385,15 @@
                                                             <!-- 65 max character -->
                                                             <div class="title">Anuradhapura</div>
                                                             <!-- 70 max character  -->
-                                                            <div class="text">Anuradhapura, one of Sri Lanka's ancient
-                                                                capitals, is a UNESCO World Heritage site that offers a
-                                                                rich tapestry of history, culture, and spiritual
-                                                                significance. Located in the North Central Province,
-                                                                Anuradhapura was the center of Sri Lankan civilization
-                                                                for over a millennium and is home to some of the
-                                                                country’s most sacred and well-preserved religious
-                                                                sites. The city's ancient ruins, towering stupas, and
-                                                                serene monasteries make it a must-visit destination for
-                                                                history buffs, spiritual seekers, and culture
-                                                                enthusiasts.</div>
-                                                            <a href="http://localhost/sl/destinations/anuradhapura.html"
+                                                            <div class="text">Anuradhapura, a UNESCO World Heritage Site, is one of Sri Lanka’s most significant cultural and historical destinations.....</div>
+                                                            <a href="http://localhost/cjd/location/anuradhapura.php"
                                                                 class="link-type-1" title="Read More">Find out
                                                                 More</a>
                                                         </div>
-                                                    </a><!-- /.item-inner -->
+                                                  <!-- /.item-inner -->
                                                 </div>
                                                 <div class="item">
-                                                    <a href="http://localhost/sl/destinations/sigiriya.html"
-                                                        class="item-inner">
+                                                    
                                                         <div class="image">
                                                             <img src="./images/3.jpg" alt="" class="img-fluid">
                                                         </div>
@@ -451,24 +401,18 @@
                                                             <!-- 65 max character -->
                                                             <div class="title">Sigiriya</div>
                                                             <!-- 70 max character  -->
-                                                            <div class="text">Sigiriya, also known as the "Lion’s Rock,"
-                                                                is one of Sri Lanka’s most iconic landmarks and a UNESCO
-                                                                World Heritage site. Located in the central part of the
-                                                                island, Sigiriya is a stunning ancient rock fortress
-                                                                that rises 200 meters above the surrounding jungle. With
-                                                                its rich history, breathtaking views, and impressive
-                                                                architecture, Sigiriya is a must-visit destination for
-                                                                travelers seeking both adventure and cultural immersion.
+                                                            <div class="text">Sigiriya, also known as Lion Rock, is one of Sri Lanka’s most famous landmarks and a UNESCO World Heritage Site.....
+
+
                                                             </div>
-                                                            <a href="http://localhost/sl/destinations/sigiriya.html"
+                                                            <a href="http://localhost/cjd/location/sigiriya.php"
                                                                 class="link-type-1" title="Read More">Find out
                                                                 More</a>
                                                         </div>
-                                                    </a><!-- /.item-inner -->
+                                                    <!-- /.item-inner -->
                                                 </div>
                                                 <div class="item">
-                                                    <a href="http://localhost/sl/destinations/bentota.html"
-                                                        class="item-inner">
+                                                   
                                                         <div class="image">
                                                             <img src="./images/bentota.jpg" alt="" class="img-fluid">
                                                         </div>
@@ -476,21 +420,13 @@
                                                             <!-- 65 max character -->
                                                             <div class="title">Bentota</div>
                                                             <!-- 70 max character  -->
-                                                            <div class="text">Bentota, located on the southwestern coast
-                                                                of Sri Lanka, is a stunning beach destination known for
-                                                                its golden sand beaches, crystal-clear waters, and
-                                                                vibrant water sports activities. This charming coastal
-                                                                town offers a blend of relaxation, adventure, and
-                                                                natural beauty, making it one of Sri Lanka’s most
-                                                                popular tourist spots. With its serene atmosphere,
-                                                                luxurious resorts, and rich cultural attractions,
-                                                                Bentota is perfect for a beach getaway
+                                                            <div class="text">Bentota, a beautiful coastal town on Sri Lanka’s southwest coast, is famous for its golden sandy beaches, turquoise waters, and thrilling water sports.....
                                                             </div>
-                                                            <a href="http://localhost/sl/destinations/bentota.html"
+                                                            <a href="http://localhost/cjd/location/bentota.php"
                                                                 class="link-type-1" title="Read More">Find out
                                                                 More</a>
                                                         </div>
-                                                    </a><!-- /.item-inner -->
+                                                   <!-- /.item-inner -->
                                                 </div>
                                             </div>
                                         </div>
@@ -506,7 +442,7 @@
             </div><!-- /.container-fluid -->
         </div><!-- /.ts-things-to-do-listing-page-->
     </main>
-    <script type='text/javascript' src='http://localhost/sl/wp-includes/js/wp-embed.min.js?ver=5.4.9'>
+    <script type='text/javascript' src='http://localhost/cjd/wp-includes/js/wp-embed.min.js?ver=5.4.9'>
     </script>
     <?php
         include "./footer.php";
@@ -529,18 +465,18 @@
     </script>
 
     <script defer
-        src="http://localhost/sl/wp-content/themes/reTlsTheme/assets/js/slider-menu.jquery-custom.js">
+        src="http://localhost/cjd/wp-content/themes/reTlsTheme/assets/js/slider-menu.jquery-custom.js">
     </script>
-    <script defer src="http://localhost/sl/wp-content/themes/reTlsTheme/assets/js/owl.carousel.min.js">
+    <script defer src="http://localhost/cjd/wp-content/themes/reTlsTheme/assets/js/owl.carousel.min.js">
     </script>
-    <script defer src="http://localhost/sl/wp-content/themes/reTlsTheme/assets/js/bootstrap.min.js"></script>
-    <script defer src="http://localhost/sl/wp-content/themes/reTlsTheme/assets/js/jquery.fancybox.min.js">
+    <script defer src="http://localhost/cjd/wp-content/themes/reTlsTheme/assets/js/bootstrap.min.js"></script>
+    <script defer src="http://localhost/cjd/wp-content/themes/reTlsTheme/assets/js/jquery.fancybox.min.js">
     </script>
-    <script defer src="http://localhost/sl/wp-content/themes/reTlsTheme/assets/js/jquery.validate.min.js">
+    <script defer src="http://localhost/cjd/wp-content/themes/reTlsTheme/assets/js/jquery.validate.min.js">
     </script>
-    <script defer src="http://localhost/sl/wp-content/themes/reTlsTheme/assets/js/bootstrap-slider.js">
+    <script defer src="http://localhost/cjd/wp-content/themes/reTlsTheme/assets/js/bootstrap-slider.js">
     </script>
-    <script defer src="http://localhost/sl/wp-content/themes/reTlsTheme/assets/js/functions.min.js"></script>
+    <script defer src="http://localhost/cjd/wp-content/themes/reTlsTheme/assets/js/functions.min.js"></script>
 
     <svg xmlns="http://www.w3.org/2000/svg" style="display:none" aria-hidden="true">
         <symbol id="icon-blogger" viewBox="0 0 14.41 14.16">

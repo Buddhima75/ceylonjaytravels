@@ -4,8 +4,8 @@
 
             <div class="column-1">
                 <div class="logo-section">
-                    <a href="http://localhost/sl" title="Truly Sri Lanka">
-                        <img src="../images/logo2.png" alt="Truly Sri Lanka" title="Truly Sri Lanka" class="img-fluid">
+                    <a href="http://localhost/cjd" title="Truly Sri Lanka">
+                        <img src="http://localhost/cjd/images/logo/logo.png" alt="Truly Sri Lanka" title="Truly Sri Lanka" class="img-fluid">
                     </a>
                 </div>
             </div>
@@ -14,18 +14,18 @@
             <div class="column-3">
                 <div class="footer-main-links-section">
                     <ul id="menu-footer-menu" class="footer-main-menu">
-                        <li class="current-menu-item"><a href="http://localhost/sl/"
+                        <li class="current-menu-item"><a href="http://localhost/cjd/"
                                 aria-current="page">Home</a></li>
-                        <li><a href="http://localhost/sl/register-your-hotel.html">List Your Property</a>
+                        <li><a href="http://localhost/cjd/register-your-hotel.html">List Your Property</a>
                         </li>
-                        <li><a href="http://localhost/sl/hotels.html">Hotels</a></li>
-                        <li><a href="http://localhost/sl/about-sri-lanka.html">About Sri Lanka</a></li>
-                        <li><a href="http://localhost/sl/vouchers.html">Book Now Stay Later</a></li>
-                        <li><a href="http://localhost/sl/destinations.html">Explore</a></li>
-                        <li><a href="http://localhost/sl/photo-credits.html">Photo Credits</a></li>
-                        <li><a href="http://localhost/sl/srilanka-attractions.html">Attractions</a></li>
-                        <li><a href="http://localhost/sl/contact-us.html">Contact Us</a></li>
-                        <li><a href="http://localhost/sl/things-to-do.html">Things to Do</a></li>
+                        <li><a href="http://localhost/cjd/hotels.html">Hotels</a></li>
+                        <li><a href="http://localhost/cjd/about-sri-lanka.html">About Sri Lanka</a></li>
+                        <li><a href="http://localhost/cjd/vouchers.html">Book Now Stay Later</a></li>
+                        <li><a href="http://localhost/cjd/destinations.html">Explore</a></li>
+                        <li><a href="http://localhost/cjd/photo-credits.html">Photo Credits</a></li>
+                        <li><a href="http://localhost/cjd/srilanka-attractions.html">Attractions</a></li>
+                        <li><a href="http://localhost/cjd/contact-us.html">Contact Us</a></li>
+                        <li><a href="http://localhost/cjd/things-to-do.html">Things to Do</a></li>
                     </ul>
                 </div>
 
@@ -34,12 +34,12 @@
                 <nav class="navbar-default">
                     <div class="footer-links-section">
                         <ul id="menu-bottom-menu" class="">
-                            <li><a href="http://localhost/sl/gdpr-compliance.html">GDPR Compliance</a>
+                            <li><a href="http://localhost/cjd/gdpr-compliance.html">GDPR Compliance</a>
                             </li>
-                            <li><a href="http://localhost/sl/terms-and-conditions.html">Terms and
+                            <li><a href="http://localhost/cjd/terms-and-conditions.html">Terms and
                                     Conditions</a></li>
-                            <li><a href="http://localhost/sl/privacy-policy.html">Privacy Policy</a></li>
-                            <li><a href="http://localhost/sl/site-map.html">Sitemap</a></li>
+                            <li><a href="http://localhost/cjd/privacy-policy.html">Privacy Policy</a></li>
+                            <li><a href="http://localhost/cjd/site-map.html">Sitemap</a></li>
                         </ul>
                     </div>
                 </nav>
@@ -60,7 +60,7 @@
                         Be the First to Know
                     </div>
                     <div class="newsletter-form">
-                        <form method="post" action="http://localhost/sl/newsletter.html" id="ftr_newsltr">
+                        <form method="post" action="http://localhost/cjd/newsletter.html" id="ftr_newsltr">
                             <div class="form-group">
                                 <input type="email" class="form-control" name="param_email" id="email"
                                     placeholder="Enter Your Email">
