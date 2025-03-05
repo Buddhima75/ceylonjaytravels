@@ -72,9 +72,8 @@
                                             <li><a href="http://localhost/cjd/things-to-do.html">Things to
                                                     Do</a></li>
                                             
-                                            <li><a href="http://localhost/cjd/about-sri-lanka.html">About
-                                                    Sri
-                                                    Lanka</a></li>
+                                                    <li><a href="./about_us.php">About Us</a></li>
+                                                    <li><a href="./contact_us.php">Contact Us</a>
                                             
                                         </ul>
                                     </div>
@@ -118,8 +117,7 @@
                                                 Do</a>
                                         </li>
                                        
-                                        <li><a href="http://localhost/cjd/about-sri-lanka.html">About Sri
-                                                Lanka</a></li>
+                                        <li><a href="./about_us.php">About Us</a></li>
                                         <li><a href="./contact_us.php">Contact Us</a>
                                         </li>
                                     </ul>
