@@ -29,7 +29,6 @@
             <meta name="viewport" content="width=device-width, initial-scale=1.0" />
             <!--GTM Code-->
             <!-- Google Tag Manager -->
-             
             <script>
                (function(w, d, s, l, i) {
                    w[l] = w[l] || [];
@@ -154,7 +153,7 @@
             </div>
             <!-- /.component-lines-animation -->
             <?php
-               include "./header.php";
+               include "../location/header.php";
                
                ?>
             <!-- / header -->
@@ -168,21 +167,21 @@
                      <div class="dynamic-overlay" style="opacity: 0.7;"></div>
                      <div class="right-image mobile">
                         <div class="right-img-mobile"
-                           style="background-image:url('./images/about/valentines-day-background-1100254_1280.jpg')">
+                           style="background-image:url('../images/about/valentines-day-background-1100254_1280.jpg')">
                         </div>
                         <div class="right-img-ipad"
-                           style="background-image:url('./images/about/valentines-day-background-1100254_1280.jpg')">
+                           style="background-image:url('../images/about/valentines-day-background-1100254_1280.jpg')">
                         </div>
                         <div class="mobile-logo">
                            <a href="http://localhost/cjd" id="branding-white" title="Truly Sri Lanka"
                               style="display: inline-block; padding: 15px 0;">
-                           <img src="./images/logo/logo.png" alt="Truly Sri Lanka"
+                           <img src="../images/logo/logo.png" alt="Truly Sri Lanka"
                               title="Truly Sri Lanka">
                            </a>
                         </div>
                      </div>
                      <div class="right-image desktop">
-                        <div class="right-img-desktop" style="background-image:url('./images/about/valentines-day-background-1100254_1280.jpg')">
+                        <div class="right-img-desktop" style="background-image:url('../images/accommodation/acc.webp')">
                         </div>
                      </div>
                   </div>
@@ -197,102 +196,224 @@
                            <div class="page-inner-wrapper">
                               <div class="component-page-intro intro-type-2">
                                  <div class="title-main-wrapper listings">
-                                    
-
-                                 
                                  </div>
-                                 <h1 class="text-center">Who We Are</h1>
-<br><br>
-<div class="container">
-    <div class="row ">
-        <div class="col-md-3 text-center text-md-left align-items-center " >
-            <img class="img-fluid" src="./images/logo/logo.png" alt="Ceylon Jay Travels Logo">
+                                 <h1 class="text-center">   5 - Star Hotels</h1>
+                                 <br><br>
+                                 <div class="container">
+                                    <div class="row">
+                                    <div class="col-md-6 text-center text-md-left align-items-center">
+    <!-- Bootstrap Carousel -->
+                                    <div id="imageCarousel" class="carousel slide" data-bs-ride="carousel">
+                                       <div class="carousel-inner">
+                                             <div class="carousel-item active">
+                                                <div class="position-relative">
+                                                   <img src="../images/accommodation/cl.jpg" class="d-block w-100" alt="Ceylon Jay Travels Logo 1">
+                                                   <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
+                                                         <h2>Cinnamon Lake Colombo</h2>
+                                                         <a href="https://www.cinnamonhotels.com/cinnamon-lakeside-colombo" class="btn"  > Click Here </a> 
+                                                   </div>
+                                                </div>
+                                             </div>
+                                             <div class="carousel-item">
+                                                <div class="position-relative">
+                                                   <img src="../images/accommodation/bl.jpg" class="d-block w-100" alt="Ceylon Jay Travels Logo 2">
+                                                   <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
+                                                         <h2>The Blue Wave Hotel And Spa</h2>
+                                                         <a href="https://www.bluewavearugambay.com/" class="btn"  > Click Here </a> 
+                                                   </div>
+                                                </div>
+                                             </div>
+                                             <div class="carousel-item">
+                                                <div class="position-relative">
+                                                   <img src="../images/accommodation/hk.webp" class="d-block w-100" alt="Ceylon Jay Travels Logo 3">
+                                                   <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
+                                                         <h2>Heritance Kandalama</h2>
+                                                         <a href="https://www.heritancehotels.com/kandalama/" class="btn"  > Click Here </a> 
+                                                   </div>
+                                                </div>
+                                             </div>
+                                             <div class="carousel-item">
+                                                <div class="position-relative">
+                                                   <img src="../images/accommodation/sg.webp" class="d-block w-100" alt="Ceylon Jay Travels Logo 4">
+                                                   <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
+                                                         <h2>Shangri-La</h2>
+                                                         <a href="https://www.shangri-la.com/colombo/shangrila/" class="btn"  > Click Here </a> 
+                                                   </div>
+                                                </div>
+                                             </div>
+                                       </div>
+                                       <!-- Carousel Controls -->
+                                       <button class="carousel-control-prev" type="button" data-bs-target="#imageCarousel" data-bs-slide="prev" >
+                                             <span class="carousel-control"><</span>
+                                       </button>
+                                       <button class="carousel-control-next" type="button" data-bs-target="#imageCarousel" data-bs-slide="next">
+                                             <span class="carousel-control">></span>
+                                       </button>
+                                       
+                                    </div>
+                                 </div>
+
+                                       <div class="col-md-6 " style="text-align: left !important;">
+                                          <h4>Introduction</h4>
+                                          <p class="text-muted">
+                                             5-star rating hotels are the best hotels with location, accommodation, food and beverages, security facilities & hospitability in Sri Lanka.
+                                          </p>
+                                          <h4>Facilities</h4>
+                                          <p class="text-muted">
+                                          ✔️&nbsp; Spa.
+                                          </p>
+                                          <p class="text-muted">
+                                          ✔️&nbsp;   Restaurant.
+                                          </p>
+                                          <p class="text-muted">
+                                          ✔️&nbsp;  Satellite TV.
+                                          <p class="text-muted">
+                                          ✔️&nbsp;   Room Service.
+                                          </p>
+                                          <p class="text-muted">
+                                          ✔️&nbsp;   24 Hour security.
+                                          </p>
+                                          <p class="text-muted">
+                                          ✔️&nbsp;   Internet Connection.
+                                          </p>
+                                          <p class="text-muted">
+                                          ✔️&nbsp;   Swimming pool/ Jacuzzi.
+                                          </p>
+                                          <p class="text-muted">
+                                          ✔️&nbsp;   Semi-open & outdoor.
+                                          </p>
+                                       </div>
+                                    </div>
+                                 </div>
+                                 <!-- tab level navigaton -->
+                                 <hr class="style-two">
+                                 <h1 class="text-center">4 - Star Hotels</h1>
+                                
+                                 <h4 class="text-muted">Most famous star-class hotels category in Sri Lanka. </h4>
+                                 <div class="container my-4">
+    <div class="row py-3 ">
+        <!-- Main Image -->
+        <div class="col-12 mb-2">
+            <div class="image-container msz">
+                <img id="mainImage" src="../image1.jpg"
+                     alt="Gallery image 1">
+                <div class="overlay-text" id="mainImageText">Marino Beach Colombo</div>
+                <a id="mainImageLink" href="http://marinobeach.com/" target="_blank" class="view-product-btn">Click Here</a>
+            </div>
         </div>
-        <div class="col-md-8 text-start">
-            <p class="text-muted left ">
-                Ceylon Jay Travels is a registered Sri Lankan travel agent specializing in tours of Sri Lanka and welcomes worldwide clients.
-            </p>
-            <p class="text-muted left">
-                Having expertise as a tourism guide, Ceylon Jay Travels was initiated with the idea of providing reasonably priced tour packages of Sri Lanka, with flexibility that can be tailored for the individual traveler.
-            </p>
-            <p class="text-muted left">
-                We have over 2000 satisfied clients from all over the world who have participated in 400 of our Sri Lankan tours, whilst maintaining the best market rates and exceptional service. Satisfaction is assured, and we have welcomed many return clients.
-            </p>
-            <p class="text-muted left">
-                Ceylon Jay Travels encourages clients to relax and take in the beauty of Sri Lanka, learn about our history, and enjoy Sri Lanka’s delicious cuisine.
-            </p>
+        
+        <!-- Thumbnails (Click to Change Main Image) -->
+        <div class="col-3 mt-1">
+            <div class="image-container sz" onclick="changeImage(this)">
+                <img src="../images/accommodation/ma.jpg"
+                     data-text="Marino Beach Colombo" data-link="http://marinobeach.com/" alt="Gallery image 1">
+            </div>
+        </div>
+        
+        <div class="col-3 mt-1">
+            <div class="image-container sz" onclick="changeImage(this)">
+                <img src="../images/accommodation/mp.jpg"
+                     data-text="Mountlavinia Hotel" data-link="https://www.mountlaviniahotel.com/" alt="Gallery image 2">
+            </div>
+        </div>
+
+        <div class="col-3 mt-1">
+            <div class="image-container sz" onclick="changeImage(this)">
+                <img src="../images/accommodation/ch.jpg"
+                     data-text="Chill Ville View Point Ella" data-link="https://web.facebook.com/chillvilleella/?_rdc=1&_rdr#" alt="Gallery image 3">
+            </div>
+        </div>
+
+        <div class="col-3 mt-1">
+            <div class="image-container sz" onclick="changeImage(this)">
+                <img src="../images/accommodation/ar.jpg"
+                     data-text="Araliya Green Hills" data-link="https://www.araliyaresorts.com/araliya-green-hills/" alt="Gallery image 4">
+            </div>
         </div>
     </div>
 </div>
 
-                                 <!-- tab level navigaton -->
-                                 
-   <hr>
-                                 <h1 class="text-center">Our Top Management</h1><br><br>
-                           <div>
-                              <img src="./images/about/Sltda-Logo.png"><br>
-                           Registered as a travel agency with Sri Lanka Tourism Development Authority.
-                           </div><br>
-
-                           <div class="container">
-                              <div class="row g-4 align-items-center">
-                                 <!-- Image 1 -->
-                                 <div class="col-md-6 p-4">
-                                       <img src="./images/about/11.jpg" class="rounded" alt="Image 1">
-                                 </div>
-                                 <div class="col-md-6 ">
-                                       <p class="fs-5 font-weight-bold h3">Loyalty</p>
-                                       <p class="text-muted">We always listen to our clients, so we can share ideas with each other and
-                                       take you on a more comfortable, fun, and memorable journey.</p>
-                                 </div>
-                                 
-                                 <!-- Image 2 -->
-                                 <div class="col-md-6 p-4">
-                                       <img src="./images/about/ex.png" class=rounded" alt="Image 2">
-                                 </div>
-                                 <div class="col-md-6">
-                                       <p class="fs-5 font-weight-bold h3 ">Experience</p>
-                                       <p class="text-muted">We have more than 18+ years of experience with clients from 25+ countries. We can individually recognize your travel dreams and fulfill them with our experience and expertise.</p>
-                                 </div>
-
-                                 <!-- Description 3 (not associated with an image) -->
-                                 <div class="col-12">
-                                       <p class="fs-5 font-weight-bold h3">Safety</p>
-                                       <p class="text-muted">We especially pay more attention to the physical and mental health of you and our staff. Our drivers and guides always ensure to follow the health guidelines provided by the government and wear certified safety equipment,</p>
-                                 </div>
-                              </div>
-                           </div>
-
-<hr>
+                    <hr class="style-two">
                               </div>
                               <!-- /.page-intro intro-type-1 -->
                               <!-- Overview -->
-                              <h1 class="text-center">Our Top Management</h1>
-                              <div class="section-overview p-4">
-                                    <div class="container">
-                                       <div class="row g-4 "> <!-- 'g-4' adds spacing between columns -->
-                                       <div class="col-sm bg-light text-center p-4 m-4 shadow abc" id="card-tm">
-                                             <img src="./images/about/google.jpg" class="img-fluid rounded-circle zoom-effect" style="max-width:50%;">
-                                             <h2>Jay</h2>
-                                             <p class="font-weight-bold">Founder & Owner</p>
-                                             <p class="fs-6">A person who has more than 20 years of experience in tourism as a national tourist guide and tour operator in Sri Lanka.</p>
-                                          </div>
-                                             <div class="col-sm  bg-light text-center p-4 m-4 shadow abc">
-                                                <img src="./images/about/FB_IMG_1631425345927.jpg" class="img-fluid rounded-circle" style="max-width:50%;">
-                                                <h2>Nimesh M Jayasuriya</h2>
-                                                <p class="font-weight-bold">CEO & ICT Manager</p>
-                                                <p class="fs-6">In the IT sector, he has worked for 6 years as a technical advisor and customer support in Sri Lanka and overseas companies.</p>
-                                             </div>
-                                             <div class="col-sm  bg-light text-center p-4 m-4 shadow abc">
-                                                <img src="./images/about/WhatsApp-Image-2023-03-12-at-17.40.40.jpeg" class="img-fluid rounded-circle" style="max-width:50%;">
-                                                <h2>Harith M Jayasuriya</h2>
-                                                <p class="font-weight-bold">Manager Operation</p>
-                                                <p class="fs-6">Harith has worked in the online business sector since 2020. He is a young boy who always puts the customers first, ensuring they have the best service possible.</p>
-                                             </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <hr>
+                              <h1 class="text-center">3 & 4 Star Hotels</h1>
+                             <!-- Bootstrap Video Carousel -->
+                             <div id="carouselVideoExample" class="carousel slide carousel-fade" data-bs-ride="carousel">
+  <!-- Indicators -->
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#carouselVideoExample" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#carouselVideoExample" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#carouselVideoExample" data-bs-slide-to="2" aria-label="Slide 3"></button>
+    <button type="button" data-bs-target="#carouselVideoExample" data-bs-slide-to="3" aria-label="Slide 4"></button>
+    <button type="button" data-bs-target="#carouselVideoExample" data-bs-slide-to="4" aria-label="Slide 5"></button>
+  </div>
+
+  <!-- Inner -->
+  <div class="carousel-inner">
+    <!-- Single item -->
+    <div class="carousel-item active">
+      <img src="../images/accommodation/pr.jpg" class="d-block w-100 op1" alt="First Slide">
+      <div class="carousel-caption d-none d-md-block">
+        <h1>Peacock Reach Hotel</h1>
+       
+        <a href="https://web.facebook.com/PeacockreachhotelSrilanka/?_rdc=1&_rdr#" class="btn ">Click Here</a>
+      </div>
+    </div>
+
+    <!-- Single item -->
+    <div class="carousel-item">
+      <img src="../images/accommodation/hs.jpg" class="d-block w-100 op1" alt="Second Slide">
+      <div class="carousel-caption d-none d-md-block">
+        <h1>Hotel Sigiriya</h1>
+        
+        <a href="https://www.brownshotels.com/hotelsigiriya/" class="btn ">Click Here</a>
+      </div>
+    </div>
+
+    <!-- Single item -->
+    <div class="carousel-item">
+      <img src="../images/accommodation/cr.jpg" class="d-block w-100 op1" alt="Third Slide">
+      <div class="carousel-caption d-none d-md-block">
+        <h1>Cenoman Red Colombo</h1>
+        
+        <a href="https://www.cinnamonhotels.com/cinnamon-red-colombo"  class="btn ">Click Here</a>
+      </div>
+    </div>
+
+    <div class="carousel-item">
+      <img src="../images/accommodation/kp.jpg" class="d-block w-100 op1" alt="Forth Slide">
+      <div class="carousel-caption d-none d-md-block">
+        <h1>Kithulgala Plantation Hotel</h1>
+        
+        <a href="https://web.facebook.com/RoyalRiverResortbyTrioResorts/?_rdc=1&_rdr#"  class="btn ">Click Here</a>
+      </div>
+    </div>
+
+    <div class="carousel-item">
+      <img src="../images/accommodation/or.jpg" class="d-block w-100 op1" alt="Fifth Slide">
+      <div class="carousel-caption d-none d-md-block">
+        <h1>Oak Ray Hotels</h1>
+        
+        <a href="https://www.oakrayhotels.com/"  class="btn ">Click Here</a>
+      </div>
+    </div>
+  </div>
+  <!-- Inner -->
+
+  <!-- Controls -->
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselVideoExample" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden"></span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselVideoExample" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden"></span>
+  </button>
+</div>
+
+
+                              <hr class="style-two">
                               <!-- Attractions -->
                               <!-- Things to do -->
                               <div class="section-attractions things-to-do">
@@ -424,9 +545,10 @@
                   </div>
                </div>
             </main>
+            <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
             <script type='text/javascript' src='http://localhost/cjd/wp-includes/js/wp-embed.min.js?ver=5.4.9'></script>
             <?php
-               include "./footer.php";
+               include "../footer.php";
                
                ?>
             <!-- model share -->
@@ -467,5 +589,16 @@
                    });
                });
             </script>
+   <script>
+    function changeImage(element) {
+        let newSrc = element.querySelector("img").src;
+        let newText = element.querySelector("img").getAttribute("data-text");
+        let newLink = element.querySelector("img").getAttribute("data-link");
+
+        document.getElementById('mainImage').src = newSrc;
+        document.getElementById('mainImageText').textContent = newText;
+        document.getElementById('mainImageLink').href = newLink;
+    }
+</script>
          </body>
       </html>

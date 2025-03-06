@@ -125,7 +125,7 @@
             <div class="container custom-container">
                <div class="row text-center">
                   <!-- First Section -->
-                  <div class="col-12 col-sm-6 col-md-4 mb-4">
+                  <div class="col-12 col-sm-6 col-md-4 mb-4 zin">
                         <div class="p-3 rounded">
                           
                            <div class="d-flex justify-content-center">
@@ -137,7 +137,7 @@
                   </div>
 
                   <!-- Second Section -->
-                  <div class="col-12 col-sm-6 col-md-4 mb-4">
+                  <div class="col-12 col-sm-6 col-md-4 mb-4 zin">
                         <div class="p-3 rounded">
                            
                            <div class="d-flex justify-content-center">
@@ -149,7 +149,7 @@
                   </div>
 
                   <!-- Third Section -->
-                  <div class="col-12 col-sm-6 col-md-4 mb-4">
+                  <div class="col-12 col-sm-6 col-md-4 mb-4 zin">
                         <div class="p-3 rounded">
                            
                            <div class="d-flex justify-content-center">

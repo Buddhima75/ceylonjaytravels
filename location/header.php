@@ -15,6 +15,8 @@
                 <li><a href="../destination.php"><span>Explore</span></a></li>
                 
                 <li><a href="http://localhost/cjd/things-to-do.html"><span>Things to Do</span></a></li>
+                <li><a href="http://localhost/cjd/accommodation/"><span>Accommodation</span></a></li>
+                <li><a href="http://localhost/cjd/leisure-recreations/"><span>leisure & Recreations</span></a></li>
             </ul>
         </div>
 
@@ -69,8 +71,9 @@
                                             <li><a href="../destination.php">Explore</a>
                                             </li>
                                             <li><a href="http://localhost/cjd/things-to-do.html">Things to
-                                                    Do</a></li>
-                                            
+                                                    Do</a></li> 
+                                                    <li><a href="http://localhost/cjd/accommodation/"><span>Accommodation</span></a></li>
+                                                    <li><a href="http://localhost/cjd/leisure-recreations/"><span>leisure & Recreations</span></a></li>
                                                     <li><a href="../about_us.php">About Us</a></li>
                                                     <li><a href="../contact_us.php">Contact Us</a>
                                           
@@ -114,7 +117,8 @@
                                         <li><a href="http://localhost/cjd/things-to-do.html">Things to
                                                 Do</a>
                                         </li>
-                                        
+                                        <li><a href="http://localhost/cjd/accommodation/"><span>Accommodation</span></a></li>
+                                        <li><a href="http://localhost/cjd/leisure-recreations/"><span>leisure & Recreations</span></a></li>
                                         <li><a href="../about_us.php">About Us</a></li>
                                         <li><a href="../contact_us.php">Contact Us</a>
                                     </ul>
